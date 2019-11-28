@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TrainingViewModelAndLiveData</string>
+    <string name="button">Button</string>
+    <string name="lastactivity">LastActivity</string>
+</resources>
